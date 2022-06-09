@@ -20,5 +20,6 @@ def compare (a,b):
         return x
     else:
         print(y)
+        return x
 
 compare(a,b)
