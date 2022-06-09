@@ -17,6 +17,7 @@ def compare (a,b):
     y = False
     if a > b:
         print(x)
+        return x
     else:
         print(y)
 
